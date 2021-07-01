@@ -1,0 +1,27 @@
+{
+  "name": "vue3lib",
+  "version": "1.0.5",
+  "description": "vue3,vue3-hooks,lib",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bd": "rm -rf dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenglbg/lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenglbg/lib/issues"
+  },
+  "homepage": "https://github.com/zenglbg/lib#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "@vueuse/core": "^5.0.3"
+  }
+}
