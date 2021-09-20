@@ -1,9 +1,11 @@
 {
-    "compilerOptions": {
-      "target": "es5",
-      "module": "commonjs",
-      "declaration": true,
-      "outDir": "./dist",
-      "strict": true
-    }
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "./dist",
+    "strict": true,
+    "lib": ["DOM", "ES2019", "DOM.Iterable"],
+    "downlevelIteration": true
   }
+}

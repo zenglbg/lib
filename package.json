@@ -1,6 +1,6 @@
 {
-  "name": "vue3lib",
-  "version": "1.0.6",
+  "name": "l-lib",
+  "version": "1.0.0",
   "description": "vue3,vue3-hooks,lib",
   "main": "dist/index.js",
   "scripts": {
